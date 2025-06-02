@@ -1,4 +1,8 @@
 NiftyPET is a software platform and a Python namespace package encompassing sub-packages for high-throughput PET image reconstruction, manipulation, processing and analysis with high quantitative accuracy and precision.
 NiftyPET: High-throughput image reconstruction and analysis : https://niftypet.readthedocs.io/en/latest/#:~:text=NiftyPET%20is%20a%20software%20platform%20and%20a%20Python,and%20analysis%20with%20high%20quantitative%20accuracy%20and%20precision.
 https://github.com/NiftyPET/NIPET
+PMOD’s PNEURO tool gives you streamlined segmentation for human brain PET and PET/MR and direct access to statistics, kinetic modelling & parametric mapping.
+Neurology - Bruker
+PMOD Neuro tool: https://doc41.pmod.com/PDF/PNEURO.pdf
+MIM Neuro: https://www.mimsoftware.com/nuclear_medicine/mim_neuro
 SPM Installation with MATLAB: https://www.fil.ion.ucl.ac.uk/spm/docs/installation/
