@@ -1,0 +1,4 @@
+NiftyPET is a software platform and a Python namespace package encompassing sub-packages for high-throughput PET image reconstruction, manipulation, processing and analysis with high quantitative accuracy and precision.
+NiftyPET: High-throughput image reconstruction and analysis : https://niftypet.readthedocs.io/en/latest/#:~:text=NiftyPET%20is%20a%20software%20platform%20and%20a%20Python,and%20analysis%20with%20high%20quantitative%20accuracy%20and%20precision.
+https://github.com/NiftyPET/NIPET
+SPM Installation with MATLAB: https://www.fil.ion.ucl.ac.uk/spm/docs/installation/
